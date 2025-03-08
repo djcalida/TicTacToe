@@ -1,4 +1,6 @@
 # How to run the program
+DOWNLOAD THE TicTacToe.zip file
+EXTRACT THE TicTacToe.zip file
 
 - First open the sln project and run
 • There are 3 modes when playing TicTacToe contains Coop, Multipayer, and Play with Bots.
